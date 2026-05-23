@@ -31,7 +31,7 @@ Only skills listed in `.claude-plugin/plugin.json` are exposed to the installer.
 
 ### Engineering
 
-_None yet._
+- **[ship](./skills/engineering/ship/SKILL.md)** — Orchestrate a team of agents to implement, review, and merge `ready-for-agent` GitHub issues in parallel using git worktrees.
 
 ### Productivity
 

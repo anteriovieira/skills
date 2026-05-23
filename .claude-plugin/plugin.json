@@ -1,6 +1,7 @@
 {
   "name": "anteriovieira-skills",
   "skills": [
+    "./skills/engineering/ship",
     "./skills/personal/example-skill"
   ]
 }
