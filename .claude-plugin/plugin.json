@@ -1,0 +1,6 @@
+{
+  "name": "anteriovieira-skills",
+  "skills": [
+    "./skills/personal/example-skill"
+  ]
+}
