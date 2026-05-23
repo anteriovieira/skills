@@ -18,28 +18,15 @@ Pick the skills you want and the agent(s) you want to install them on.
 .claude-plugin/plugin.json      # installable skill manifest
 skills/
   engineering/                  # daily code work
-  productivity/                 # daily non-code workflow
-  misc/                         # kept around but rarely used
-  personal/                     # tied to my own setup, not promoted
-  in-progress/                  # drafts not yet shipped
-  deprecated/                   # no longer used
 ```
 
-Only skills listed in `.claude-plugin/plugin.json` are exposed to the installer.
+Only skills listed in `.claude-plugin/plugin.json` are exposed to the installer. New buckets get added as needed.
 
 ## Reference
 
 ### Engineering
 
 - **[ship](./skills/engineering/ship/SKILL.md)** — Orchestrate a team of agents to implement, review, and merge `ready-for-agent` GitHub issues in parallel using git worktrees.
-
-### Productivity
-
-_None yet._
-
-### Misc
-
-_None yet._
 
 ## Scripts
 
